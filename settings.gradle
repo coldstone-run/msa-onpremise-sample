@@ -1,0 +1,10 @@
+rootProject.name = 'msa-onpremise-sample'
+
+include 'common'
+include 'api-gateway'
+include 'discovery-server'
+include 'config-server'
+include 'user-service'
+
+include 'product-service'
+include 'order-service'
