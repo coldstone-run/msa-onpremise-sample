@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="msa-onpremise-sample.product-service.main" />
+        <module name="msa-onpremise-sample.user-service.main" />
+        <module name="msa-onpremise-sample.order-service.main" />
+        <module name="msa-onpremise-sample.common.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="21">
+      <module name="api-gateway" target="21" />
+      <module name="api-gateway.main" target="21" />
+      <module name="api-gateway.test" target="21" />
+      <module name="common" target="21" />
+      <module name="common.main" target="21" />
+      <module name="common.test" target="21" />
+      <module name="discovery-server" target="21" />
+      <module name="discovery-server.main" target="21" />
+      <module name="discovery-server.test" target="21" />
+      <module name="order-service" target="21" />
+      <module name="order-service.main" target="21" />
+      <module name="order-service.test" target="21" />
+      <module name="product-service" target="21" />
+      <module name="product-service.main" target="21" />
+      <module name="product-service.test" target="21" />
+      <module name="user-service" target="21" />
+      <module name="user-service.main" target="21" />
+      <module name="user-service.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="-parameters" />
+      <module name="config-server.main" options="-parameters" />
+      <module name="config-server.test" options="-parameters" />
+      <module name="msa-onpremise-sample.api-gateway" options="-parameters" />
+      <module name="msa-onpremise-sample.api-gateway.main" options="-parameters" />
+      <module name="msa-onpremise-sample.api-gateway.test" options="-parameters" />
+      <module name="msa-onpremise-sample.config-server" options="-parameters" />
+      <module name="msa-onpremise-sample.config-server.main" options="-parameters" />
+      <module name="msa-onpremise-sample.config-server.test" options="-parameters" />
+      <module name="msa-onpremise-sample.discovery-server" options="-parameters" />
+      <module name="msa-onpremise-sample.discovery-server.main" options="-parameters" />
+      <module name="msa-onpremise-sample.discovery-server.test" options="-parameters" />
+      <module name="msa-onpremise-sample.order-service" options="-parameters" />
+      <module name="msa-onpremise-sample.order-service.main" options="-parameters" />
+      <module name="msa-onpremise-sample.order-service.test" options="-parameters" />
+      <module name="msa-onpremise-sample.product-service" options="-parameters" />
+      <module name="msa-onpremise-sample.product-service.main" options="-parameters" />
+      <module name="msa-onpremise-sample.product-service.test" options="-parameters" />
+      <module name="msa-onpremise-sample.user-service" options="-parameters" />
+      <module name="msa-onpremise-sample.user-service.main" options="-parameters" />
+      <module name="msa-onpremise-sample.user-service.test" options="-parameters" />
+      <module name="msa-onpremise.api-gateway" options="-parameters" />
+      <module name="msa-onpremise.api-gateway.main" options="-parameters" />
+      <module name="msa-onpremise.api-gateway.test" options="-parameters" />
+      <module name="msa-onpremise.config-server" options="-parameters" />
+      <module name="msa-onpremise.config-server.main" options="-parameters" />
+      <module name="msa-onpremise.config-server.test" options="-parameters" />
+      <module name="msa-onpremise.discovery-server" options="-parameters" />
+      <module name="msa-onpremise.discovery-server.main" options="-parameters" />
+      <module name="msa-onpremise.discovery-server.test" options="-parameters" />
+      <module name="msa-onpremise.order-service" options="-parameters" />
+      <module name="msa-onpremise.order-service.main" options="-parameters" />
+      <module name="msa-onpremise.order-service.test" options="-parameters" />
+      <module name="msa-onpremise.product-service" options="-parameters" />
+      <module name="msa-onpremise.product-service.main" options="-parameters" />
+      <module name="msa-onpremise.product-service.test" options="-parameters" />
+      <module name="msa-onpremise.user-service" options="-parameters" />
+      <module name="msa-onpremise.user-service.main" options="-parameters" />
+      <module name="msa-onpremise.user-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>

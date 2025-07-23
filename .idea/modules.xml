@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/msa-onpremise-sample.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/msa-onpremise-sample.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/msa-onpremise-sample.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/msa-onpremise-sample.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/msa-onpremise-sample.product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/msa-onpremise-sample.product-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service/msa-onpremise-sample.user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service/msa-onpremise-sample.user-service.main.iml" />
+    </modules>
+  </component>
+</project>
