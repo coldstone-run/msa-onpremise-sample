@@ -1,0 +1,37 @@
+# IntelliJ 관련 설정 파일 무시
+.idea/
+*.iml
+
+# 빌드 출력 디렉토리 무시
+/out/
+/target/
+
+# 로그 파일
+*.log
+
+# 환경 설정 및 보안 관련 파일
+.env
+*.key
+*.pem
+
+# 운영체제별 임시 파일
+.DS_Store
+Thumbs.db
+
+# Gradle 캐시
+.gradle/
+build/
+
+# Maven 캐시
+.mvn/
+dependency-reduced-pom.xml
+
+# Java 컴파일 결과
+*.class
+
+# 테스트 리포트
+/test-output/
+
+# 기타
+*.swp
+*.bak
